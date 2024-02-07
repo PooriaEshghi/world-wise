@@ -1,12 +1,11 @@
 import PageNav from "../components/PageNav"
 
-
-function Priceing() {
+function PageNoteFound() {
   return (
     <div>
 <PageNav />
-      Priceing</div>
+      Page Note Found</div>
   )
 }
 
-export default Priceing
+export default PageNoteFound
