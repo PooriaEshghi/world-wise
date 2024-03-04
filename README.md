@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 
 npm run dev
+npm run server
