@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,55 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "cbf8",
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-03-08T16:44:06.171Z",
+      "notes": "",
+      "position": {
+        "lat": "41.89279423337645",
+        "lng": "12.514494394318852"
+      }
+    },
+    {
+      "id": "af46",
+      "cityName": "Agudo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-08T16:47:53.325Z",
+      "notes": "",
+      "position": {
+        "lat": "39.041635759328564",
+        "lng": "-4.85671497919267"
+      }
+    },
+    {
+      "id": "04b8",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-03-08T17:11:25.181Z",
+      "notes": "",
+      "position": {
+        "lat": "51.451709469093466",
+        "lng": "0.12970898280818768"
+      }
+    },
+    {
+      "id": "58d4",
+      "cityName": "Pakdasht",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2024-03-11T14:12:18.166Z",
+      "notes": "",
+      "position": {
+        "lat": "35.602081107062006",
+        "lng": "51.70176228056781"
+      }
     }
   ]
 }
